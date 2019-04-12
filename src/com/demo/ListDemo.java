@@ -21,7 +21,7 @@ public class ListDemo {
 	
 	public static void add(Product product,ArrayList<Product> list) {
 		 if (!list.contains(product)) {
-	    	    list.add(product);
+	    	   list.add(product);
 	    	}
 	}
 }
