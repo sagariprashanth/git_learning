@@ -7,10 +7,10 @@ import java.util.Set;
 public class ListDemo {
 	public static void main(String[] args) {
      ArrayList<Product> list = new ArrayList<Product>();
-     Product prod1= new Product(1,"Prashanth");
+     Product prod1= new Product(1,"Pepsi");
      add(prod1,list);
      
-     Product prod2= new Product(1,"Prashanth");
+     Product prod2= new Product(1,"Maaza");
      add(prod2,list);
      
      System.out.println(list);
